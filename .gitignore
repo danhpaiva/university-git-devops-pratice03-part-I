@@ -1,0 +1,6 @@
+// Ignore files
+*.jar
+*.xml
+
+//Ignorar folder
+/node_modules/
